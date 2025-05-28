@@ -50,6 +50,7 @@ DYNAMIC NAT CONFIGURATION
 ![image](https://github.com/psaumur/CCNA/assets/106411237/6694689a-4880-497c-a1f6-838003810f0c)
 
 `show ip nat translations`
+dynamic entries last 24 hrs.But when clear ip nat translations is used they are cleared
 
 ![image](https://github.com/psaumur/CCNA/assets/106411237/5b656147-f61c-4313-9a7e-34bec3ae6fbf)
 

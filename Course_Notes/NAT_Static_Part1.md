@@ -56,7 +56,7 @@ STATIC NAT CONFIGURATIONS
 
 ![image](https://github.com/psaumur/CCNA/assets/106411237/add755f6-2d2c-4fe8-aae1-6d1aeecb6ea2)
 
-Command `clear ip nat translation`
+Command `clear ip nat translation`----Clear dynamic entries
 
 ![image](https://github.com/psaumur/CCNA/assets/106411237/4266d928-0970-4386-82d7-159cc2b02df6)
 

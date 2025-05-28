@@ -58,6 +58,9 @@ DYNAMIC NAT CONFIGURATION
 ![image](https://github.com/psaumur/CCNA/assets/106411237/99bb39f3-2ea7-44d2-929e-223755726882)
 
 ---
+In sh ip nat statistics , the extended number refers to the udp , icmp transalations which get cleared after a miknute of being unused and dynamic refers to all dynamic translations including the one that stays 24 hrs.
+
+---
 
 DYNAMIC PAT (NAT OVERLOAD)
 

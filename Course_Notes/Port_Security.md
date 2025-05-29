@@ -114,7 +114,7 @@ STICKY SECURE MAC ADDRESSES
 - When enabled, dynamically-learned SECURE MAC ADDRESSES will be added to the running configuration, like this:
     - `switchport port-security mac-address sticky *mac-address*`
 
-- The ‘STICKY’ SECURE MAC ADDRESSES will NEVER age out
+- The ‘STICKY’ SECURE MAC ADDRESSES will NEVER age out even when static againg command is enabled
     - You need to SAVE the `running-config` to `startup-config` to make them TRULY permanent (or else they will not be kept if the SWITCH restarts)
 - When you issue the `switchport port-security mac-address sticky` command, all current dynamically-learned secure MAC addresses will be converted to STICKY SECURE MAC ADDRESSES
 - If you issue the `no switchport port-security mac-address sticky` command, all current STICKY SECURE MAC ADDRESSES will be converted to regular dynamically-learned SECURE MAC ADDRESSES
